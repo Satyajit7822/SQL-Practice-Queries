@@ -127,7 +127,7 @@ WHERE TotalGoals > 3;
 
 ### Subquery
 
-![Subquery](images/Subquery_Output.png)
+![Subquery](images/Subquery.png)
 
 ### Common Table Expression (CTE)
 
